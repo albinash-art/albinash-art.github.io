@@ -1,5 +1,5 @@
 ---
-title: "Albina Sh - Events"
+title: "Albina Sh - Portfolio"
 layout: default
 ---
 
