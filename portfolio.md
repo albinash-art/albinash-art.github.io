@@ -5,6 +5,6 @@ layout: default
 
 # Watercolor
 
-- Daffodils at Karen's
+### Daffodils at Karen's
 
-<img src="{{site.url}}/img/narcissus flower notebook1.png" width="70%%">
+<img src="{{site.url}}/img/narcissus flower notebook1.png" width="50%">
