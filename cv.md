@@ -6,11 +6,11 @@ layout: default
 **Albina Sharafullina** (b. 1990, Russia)
 
 albinash.art@gmail.com \| 617.901.8906
-	
-Albina Sharafullina is a realist artist, who believes in close consideration of the reality in order to come up with any creative project. It is so difficult to get to very nature of things and people around us, but it shouldn’t discourage us - keep looking. 
+
+Albina Sharafullina is a realist artist, who believes in close consideration of the reality in order to come up with any creative project. It is so difficult to get to very nature of things and people around us, but it shouldn’t discourage us - keep looking.
 
 
-###	Piedmont Virginia Community College, Associate of Arts degree, current Visual Art student
+## Piedmont Virginia Community College, Associate of Arts degree, current Visual Art student
 - Drawing, Figure Drawing 	Rick Weaver
 - Painting II			Jeremy Taylor
 - Painting I			Fenella Belle
@@ -25,4 +25,3 @@ Albina Sharafullina is a realist artist, who believes in close consideration of 
 
 ## Collections
 - Private collection, Russia
-
