@@ -5,11 +5,9 @@ layout: default
 
 **Albina Sharafullina** (b. 1990, Russia)
 
-<div
 <a href="mailto:albinash.art@gmail.com">albinash.art@gmail.com</a>
-<div
 
-Albina Sharafullina is a realist artist, who believes in close consideration of the reality which later helps with altering the reality for coming up with a creative project. It is so difficult to get to very nature of things and people around us, but it shouldn’t discourage us - we should keep looking. 
+<p align="justify">Albina Sharafullina is a realist artist, who believes in close consideration of the reality which later helps with altering the reality for coming up with a creative project. It is so difficult to get to very nature of things and people around us, but it shouldn’t discourage us - we should keep looking.</p>
 
 
 ## Piedmont Virginia Community College, Associate of Arts degree, current Visual Art student
