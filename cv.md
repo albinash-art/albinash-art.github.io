@@ -11,16 +11,16 @@ Albina Sharafullina is a realist artist, who believes in close consideration of 
 
 
 ## Piedmont Virginia Community College, Associate of Arts degree, current Visual Art student
-- Drawing, Figure Drawing 	Rick Weaver
-- Painting II			Jeremy Taylor
-- Painting I			Fenella Belle
-- Art History			Lauren Maupin
-- Ceramics			Tom Clarkson
-- Fundamentals of Design I	Beryl Solla
+- Drawing, Figure Drawing - Rick Weaver
+- Painting II - Jeremy Taylor
+- Painting I - Fenella Belle
+- Art History - Lauren Maupin, Lou Haney
+- Ceramics - Tom Clarkson
+- Fundamentals of Design I - Beryl Solla
 
 ## Exhibitions
 - 2016 	Annual Student Exhibition, PVCC, Charlottesville, VA
-- 2017	Figure Drawing Group, Upper Hall South Gallery, McGuffey Art Center, Charlottesville, VA
+- 2017	Figure Drawing Group, McGuffey Art Center, Charlottesville, VA
 - 2017 	Annual Student Exhibition, PVCC, Charlottesville, VA
 
 ## Collections
