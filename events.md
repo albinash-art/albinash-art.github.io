@@ -12,7 +12,6 @@ layout: default
 
 <div class="row">
   <div class="col-md-4">
-    <img src="{{site.url}}/img/McGuffey Waiting Man1.png" width="100%">
+    <img src="{{site.url}}/img/McGuffeyWaitingMan1.png" width="100%">
   </div>
-
 </div>
