@@ -7,5 +7,5 @@ layout: default
 
 ### Daffodils at Karen's
 
-<img src="{{site.url}}/img/narcissus flower notebook1.png" width="50%">
+<img src="{{site.url}}/img/narcis1.png" width="50%">
 
