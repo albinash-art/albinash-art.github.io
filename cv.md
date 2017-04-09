@@ -20,7 +20,7 @@ layout: default
 
 ## Exhibitions
 - 2016 	Annual Student Exhibition, PVCC, Charlottesville, VA
-- 2017	Figure Drawing Group, McGuffey Art Center, Charlottesville, VA
+- 2017	Figure Drawing Group, Upper Hall South Gallery, McGuffey Art Center, Charlottesville, VA
 - 2017 	Annual Student Exhibition, PVCC, Charlottesville, VA
 
 ## Collections
