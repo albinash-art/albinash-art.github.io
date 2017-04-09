@@ -10,6 +10,7 @@ layout: default
   <ul><li> 
   Figure Drawing Group Exhibition (Upper Hall South Gallery, <a href="http://www.mcguffeyartcenter.com/">McGuffey Art Center</a>), April   7-30, 2017. Opening reception: April 7, 5:30-7:30pm
   </li>
+  <br>
   <li>
   Annual Student Exhibition (<a href="http://www.pvcc.edu/fine-arts-and-performance/gallery/annual-student-exhibition-and-seventh-annual-chocolate-chow-down">Piedmont Virginia Community College</a>), April 14 - September 6, 2017. Opening reception: April 14, 5:00-7:00pm
   </li>
